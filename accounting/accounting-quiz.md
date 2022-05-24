@@ -221,3 +221,9 @@
 - [ ] paying a note payable
 - [ ] NSF checks
 - [ ] service changes
+
+#### Q34. Robinson Hotels is trying to predict its utility costs. It has five years of data, including monthly utility cost, monthly occupancy rates, and average monthly temperature. What tool or technique can Robinson Hotels use to predict or estimate its future utility costs?
+- [ ] segment report
+- [ ] net present value
+- [x] Regression analysis
+- [ ] Time series analysis
