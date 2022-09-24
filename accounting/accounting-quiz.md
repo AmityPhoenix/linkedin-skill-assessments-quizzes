@@ -248,3 +248,10 @@
 - [ ] service changes
 
 [source]'MT: depositor account os a liability to the bank - bank owes the money to depositor. bank collects a notes receivable from client means reducing client's cash/ deposits. Similar if NSF means the cheque owner does not have enough funds to transfer funds into the client's deposits, so theres no change in deposits.'
+
+#### Q33. Robinson Hotels is trying to predit its utility costs. It has five years of data, including monthly utility cost, monthly occupancy rates, and average monthly temperature. What tool or technique can Robinson Hotels use to perdict or estimate its future utility costs?
+
+- [ ] time series analysis
+- [x] regression analysis
+- [ ] net present value
+- [ ] segment report
