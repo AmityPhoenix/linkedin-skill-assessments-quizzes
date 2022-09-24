@@ -248,3 +248,10 @@
 - [ ] service changes
 
 [source]'MT: depositor account os a liability to the bank - bank owes the money to depositor. bank collects a notes receivable from client means reducing client's cash/ deposits. Similar if NSF means the cheque owner does not have enough funds to transfer funds into the client's deposits, so theres no change in deposits.'
+
+#### Q33. What is the purpose of an operational audit?
+
+- [ ] assessing the company’s compliance with environmental laws andregulations
+- [x] evaluating whether the organization is meeting the metrics set bymanagement in order to achieve the goals and objectives set forth by the boardof directors
+- [ ] assessing the organization’s control mechanisms for overall efficiency andreliability
+- [ ] evaluating compliance with applicable laws, regulations, policies, andprocedures
